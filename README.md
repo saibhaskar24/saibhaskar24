@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 My name is [P Sai Bhaskar](https://saibhaskar24.github.io/) A Computer Science Engineer, Developer who loves Programming and Problem solving.🚀.
 <br />
-Beside’s programming, I enjoy playing basketball🏀 and watching novies📽.
+Beside’s programming, I love playing basketball🏀 and watching novies📽.
 
 **Languages and Tools:**  
 
